@@ -1,2 +1,2 @@
 # GoFish
-Card game written in Python
+My take on the classic card game
